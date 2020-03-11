@@ -22,7 +22,7 @@ public class DateMyDaughter {
         
      Scanner input=new Scanner(System.in);
      
-     System.out.println("Hello,if you want to date my daughter you must answer some questions");
+     System.out.println("Hello,if you want to date my daughter you must answer some questions, let see if you can answer");
      System.out.println("What is your age?");
      int age=input.nextInt();
      boolean ageOk=(age>25) &&(age<45);
